@@ -90,7 +90,3 @@ python graphiti-test.py
   - `agent.py`: Defines the ADK agent and tools for adding/searching HR info.
 - `graphiti-test.py`: detailed usage examples and tests for Graphiti and FalkorDB.
 - `requirement.txt`: Project dependencies.
-
-## 📄 License
-
-[MIT](LICENSE)
